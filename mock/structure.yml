@@ -1,6 +1,5 @@
 - _data:
   - beatles.yml
-  - google-analytics.md
   
 - _posts:
   - 2017-03-13-welcome-to-jekyll.md
